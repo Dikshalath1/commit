@@ -1,0 +1,11 @@
+com\project\Infycart\product\repository\SubscribedproductRepository.class
+com\project\Infycart\product\validator\Validator.class
+com\project\Infycart\product\dto\ProductDTO.class
+com\project\Infycart\product\entity\Subscribedproduct.class
+com\project\Infycart\product\entity\Product.class
+com\project\Infycart\product\ProductApplication.class
+com\project\Infycart\product\service\ProductService.class
+com\project\Infycart\product\controller\ProductController.class
+com\project\Infycart\product\repository\ProductRepository.class
+com\project\Infycart\product\dto\SubscribedproductDTO.class
+com\project\Infycart\product\service\SubscribedproductService.class

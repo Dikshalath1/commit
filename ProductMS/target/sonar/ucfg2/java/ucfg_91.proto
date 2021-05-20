@@ -1,0 +1,160 @@
+
+gcom.project.Infycart.product.dto.ProductDTO#createEntity()Lcom/project/Infycart/product/entity/Product;{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaÑ Ñ("1*ë<
+1{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaÜ Ü("‡›
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaÜ Ü( 1
+%0+com.project.Infycart.product.entity.Product"+com.project.Infycart.product.entity.ProductÚ
+Ô
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaÜ Ü("
+%1"5com.project.Infycart.product.entity.Product#<init>()V*3
+1
+%0+com.project.Infycart.product.entity.ProductÛ
+
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaÜ Ü(#6
+product+com.project.Infycart.product.entity.Product"__id*3
+1
+%0+com.project.Infycart.product.entity.Productüú
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaá á(#
+%2java.lang.String"Hcom.project.Infycart.product.dto.ProductDTO#getBrand()Ljava/lang/String;*/-
++com.project.Infycart.product.dto.ProductDTO2
+getBrand()…∆
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaá á($
+
+%3void"Icom.project.Infycart.product.entity.Product#setBrand(Ljava/lang/String;)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%2java.lang.String2setBrand(Ljava/lang/String;)•¢
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaà à()
+%4java.lang.String"Kcom.project.Infycart.product.dto.ProductDTO#getCategory()Ljava/lang/String;*/-
++com.project.Infycart.product.dto.ProductDTO2getCategory()œÃ
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaà à(*
+
+%5void"Lcom.project.Infycart.product.entity.Product#setCategory(Ljava/lang/String;)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%4java.lang.String2setCategory(Ljava/lang/String;)´®
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaâ â(/
+%6java.lang.String"Ncom.project.Infycart.product.dto.ProductDTO#getDescription()Ljava/lang/String;*/-
++com.project.Infycart.product.dto.ProductDTO2getDescription()’“
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaâ â(0
+
+%7void"Ocom.project.Infycart.product.entity.Product#setDescription(Ljava/lang/String;)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%6java.lang.String2"setDescription(Ljava/lang/String;)üú
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaä ä(#
+%8java.lang.String"Hcom.project.Infycart.product.dto.ProductDTO#getImage()Ljava/lang/String;*/-
++com.project.Infycart.product.dto.ProductDTO2
+getImage()…∆
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaä ä($
+
+%9void"Icom.project.Infycart.product.entity.Product#setImage(Ljava/lang/String;)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%8java.lang.String2setImage(Ljava/lang/String;)ÖÇ
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaã ã(#
+%10double"7com.project.Infycart.product.dto.ProductDTO#getPrice()D*/-
++com.project.Infycart.product.dto.ProductDTO2
+getPrice()üú
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaã ã($
+%11void"8com.project.Infycart.product.entity.Product#setPrice(D)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%10double2setPrice(D)ÑÅ
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaå å(%
+
+%12int"8com.project.Infycart.product.dto.ProductDTO#getProdId()I*/-
++com.project.Infycart.product.dto.ProductDTO2getProdId()ûõ
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaå å(&
+%13void"9com.project.Infycart.product.entity.Product#setProdId(I)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+
+%12int2setProdId(I)¨©
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaç ç(/
+%14java.lang.String"Ncom.project.Infycart.product.dto.ProductDTO#getProductname()Ljava/lang/String;*/-
++com.project.Infycart.product.dto.ProductDTO2getProductname()◊‘
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaç ç(0
+%15void"Ocom.project.Infycart.product.entity.Product#setProductname(Ljava/lang/String;)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%14java.lang.String2"setProductname(Ljava/lang/String;)¢ü
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaé é(%
+%16java.lang.String"Icom.project.Infycart.product.dto.ProductDTO#getRating()Ljava/lang/String;*/-
++com.project.Infycart.product.dto.ProductDTO2getRating()Õ 
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaé é(&
+%17void"Jcom.project.Infycart.product.entity.Product#setRating(Ljava/lang/String;)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%16java.lang.String2setRating(Ljava/lang/String;)àÖ
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaè è()
+
+%18int":com.project.Infycart.product.dto.ProductDTO#getSellerid()I*/-
++com.project.Infycart.product.dto.ProductDTO2getSellerid()¢ü
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaè è(*
+%19void";com.project.Infycart.product.entity.Product#setSellerid(I)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+
+%18int2setSellerid(I)Çˇ
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaê ê(#
+
+%20int"7com.project.Infycart.product.dto.ProductDTO#getStock()I*/-
++com.project.Infycart.product.dto.ProductDTO2
+getStock()úô
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaê ê($
+%21void"8com.project.Infycart.product.entity.Product#setStock(I)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+
+%20int2setStock(I)¨©
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaë ë(/
+%22java.lang.String"Ncom.project.Infycart.product.dto.ProductDTO#getSubcategory()Ljava/lang/String;*/-
++com.project.Infycart.product.dto.ProductDTO2getSubcategory()◊‘
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaë ë(0
+%23void"Ocom.project.Infycart.product.entity.Product#setSubcategory(Ljava/lang/String;)V*8
+6
+product+com.project.Infycart.product.entity.Product*
+
+%22java.lang.String2"setSubcategory(Ljava/lang/String;)"∑
+{
+oC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/ProductDTO.javaí í(8
+6
+product+com.project.Infycart.product.entity.ProductB/-
++com.project.Infycart.product.dto.ProductDTO

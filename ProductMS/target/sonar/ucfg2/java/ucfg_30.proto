@@ -1,0 +1,69 @@
+
+Wcom.project.Infycart.product.service.ProductService#removeProduct(Ljava/lang/Integer;)ZÅ
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javah h("3*∆
+2Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javal l(éã
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javal l(#1
+%3+com.project.Infycart.product.entity.Product"*java.util.Optional#get()Ljava/lang/Object;*
+
+productjava.util.Optional2get()˚
+¯
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javal l($7
+product1+com.project.Infycart.product.entity.Product"__id*3
+1
+%3+com.project.Infycart.product.entity.Productû
+õ
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javam m(?
+%49com.project.Infycart.product.repository.ProductRepository"__id*N*L5
+3com.project.Infycart.product.service.ProductService"
+productRepository˝˙
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javam m(%
+
+%5void"Norg.springframework.data.repository.CrudRepository#delete(Ljava/lang/Object;)V*A
+?
+%49com.project.Infycart.product.repository.ProductRepository*9
+7
+product1+com.project.Infycart.product.entity.Product2delete(Ljava/lang/Object;)"å
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javan n(
+""*Ô	
+3Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javaj j(/û
+õ
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javaj j(/?
+%09com.project.Infycart.product.repository.ProductRepository"__id*N*L5
+3com.project.Infycart.product.service.ProductService"
+productRepositoryâÜ
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javaj j(C
+%1java.util.Optional"corg.springframework.data.repository.CrudRepository#findById(Ljava/lang/Object;)Ljava/util/Optional;*A
+?
+%09com.project.Infycart.product.repository.ProductRepository* 
+
+	productidjava.lang.Integer2findById(Ljava/lang/Object;)»
+≈
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javaj j(D
+productjava.util.Optional"__id*
+
+%1java.util.OptionalÂ‚
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javak k(
+%2boolean"java.util.Optional#isPresent()Z*
+
+productjava.util.Optional2isPresent()*
+2
+1*ñ
+1Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javap
+ p("å
+Å
+wC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/service/ProductService.javap p(
+"":
+	productidjava.lang.IntegerB75
+3com.project.Infycart.product.service.ProductService

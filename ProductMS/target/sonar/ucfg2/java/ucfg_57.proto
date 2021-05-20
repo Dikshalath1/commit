@@ -1,0 +1,65 @@
+
+≠com.project.Infycart.product.dto.SubscribedproductDTO#valueOf(Lcom/project/Infycart/product/entity/Subscribedproduct;)Lcom/project/Infycart/product/dto/SubscribedproductDTO;É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java3% 3(,"1*û
+1É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java4/ 4(I˝˙
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java43 4(G;
+%05com.project.Infycart.product.dto.SubscribedproductDTO"5com.project.Infycart.product.dto.SubscribedproductDTOè
+å
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java4/ 4(I
+%1"?com.project.Infycart.product.dto.SubscribedproductDTO#<init>()V*=
+;
+%05com.project.Infycart.product.dto.SubscribedproductDTOù
+ö
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java4 4(JM
+subscribedproductDTO5com.project.Infycart.product.dto.SubscribedproductDTO"__id*=
+;
+%05com.project.Infycart.product.dto.SubscribedproductDTOµ≤
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java5# 5(A	
+%2int"Ccom.project.Infycart.product.entity.Subscribedproduct#getBuyerid()I*L
+J
+subscribedproduct5com.project.Infycart.product.entity.Subscribedproduct2getBuyerid()»≈
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java5 5(B
+
+%3void"Dcom.project.Infycart.product.dto.SubscribedproductDTO#setBuyerid(I)V*O
+M
+subscribedproductDTO5com.project.Infycart.product.dto.SubscribedproductDTO*
+	
+%2int2setBuyerid(I)≥∞
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java6" 6(?	
+%4int"Bcom.project.Infycart.product.entity.Subscribedproduct#getProdid()I*L
+J
+subscribedproduct5com.project.Infycart.product.entity.Subscribedproduct2getProdid()∆√
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java6 6(@
+
+%5void"Ccom.project.Infycart.product.dto.SubscribedproductDTO#setProdid(I)V*O
+M
+subscribedproductDTO5com.project.Infycart.product.dto.SubscribedproductDTO*
+	
+%4int2setProdid(I)∑¥
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java7$ 7(C	
+%6int"Dcom.project.Infycart.product.entity.Subscribedproduct#getQuantity()I*L
+J
+subscribedproduct5com.project.Infycart.product.entity.Subscribedproduct2getQuantity() «
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java7 7(D
+
+%7void"Ecom.project.Infycart.product.dto.SubscribedproductDTO#setQuantity(I)V*O
+M
+subscribedproductDTO5com.project.Infycart.product.dto.SubscribedproductDTO*
+	
+%6int2setQuantity(I)"◊
+É
+yC:/Users/Ashwini/git/ReskellingProject/ProductMS/src/main/java/com/project/Infycart/product/dto/SubscribedproductDTO.java8 8(O
+M
+subscribedproductDTO5com.project.Infycart.product.dto.SubscribedproductDTO:J
+subscribedproduct5com.project.Infycart.product.entity.SubscribedproductB9"7
+5com.project.Infycart.product.dto.SubscribedproductDTO
